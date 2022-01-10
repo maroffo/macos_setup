@@ -73,17 +73,19 @@ brew install --cask viscosity
 brew install --cask postman
 brew install --cask keka
 brew install --cask little-snitch
+brew install --cask appdelete
+brew install --cask bartender
+brew install --cask hush
+brew install --cask zoom
+
+
 brew install --cask whatsapp
 brew install --cask telegram
+brew install --cask signal
+
 brew install --cask google-cloud-sdk
- 
-brew install --cask qlcolorcode 
-brew install --cask qlstephen 
-brew install --cask qlmarkdown 
-brew install --cask quicklook-json 
-brew install --cask qlprettypatch 
-brew install --cask quicklook-csv 
-brew install --cask suspicious-package
+brew install --cask google-drive 
+
 
 
 brew install mas
@@ -91,7 +93,8 @@ brew install mas
 mas install 937984704
 # Magnet
 mas install 441258766
-
+# Pastepal
+mas install 1503446680
 echo "Done.  Restart computer to see all changes"
 
 # https://github.com/alexramirez/mac-setup
