@@ -58,7 +58,7 @@ brew install wget
 brew install pstree
 brew install htop
 
-brew cask install iterm2
+brew install --cask iterm2
 
 brew install --cask google-chrome
 brew install --cask firefox
